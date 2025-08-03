@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="6" fill="#6366F1"/>
+  <path d="M8 12H24V20H8V12Z" fill="white"/>
+  <path d="M10 14H12V18H10V14Z" fill="#0F172A"/>
+  <path d="M14 14H16V18H14V14Z" fill="#0F172A"/>
+  <path d="M18 14H20V18H18V14Z" fill="#0F172A"/>
+  <path d="M22 14H24V18H22V14Z" fill="#0F172A"/>
+  <path d="M12 14H10V16H12V14Z" fill="#6366F1"/>
+  <path d="M16 14H14V16H16V14Z" fill="#6366F1"/>
+  <path d="M20 14H18V16H20V14Z" fill="#6366F1"/>
+  <path d="M24 14H22V16H24V14Z" fill="#6366F1"/>
+</svg>
